@@ -1,9 +1,16 @@
 #R for PCA of target mutants. 01/23/2023
+
+#R version 4.0.0 (2020-04-24) -- "Arbor Day"
+#Copyright (C) 2020 The R Foundation for Statistical Computing
+#Platform: x86_64-pc-linux-gnu (64-bit)
+
 library(tidyverse)
 library(ggplot2)
 library(dplyr)
 setwd("/Users/bingbingduan/Documents/lib/Pol2lib/analysis/Details_of_each_lib/lib1678910/MedianNormed_fitness/6_PCA")
 dir()
+
+
 #1. DF without missing values.
 Deviation_NoNA <- read.csv("./2_inputForPCA/TargetDouMut_deviation_PCA_NoNA.csv", sep=",", header =TRUE)
 row.names(Deviation_NoNA) <- Deviation_NoNA[,1]
