@@ -1,5 +1,5 @@
 #R for PCA of target mutants. 01/23/2023
-
+sessionInfo()
 #R version 4.0.0 (2020-04-24) -- "Arbor Day"
 #Copyright (C) 2020 The R Foundation for Statistical Computing
 #Platform: x86_64-pc-linux-gnu (64-bit)
