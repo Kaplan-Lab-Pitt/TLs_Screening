@@ -2,6 +2,11 @@
 #This is for producing connection network for epistasis interactions.
 setwd("/Users/bingbingduan/Documents/lib/Pol2lib/analysis/Epistasis/Portion/Portion/Edge_Bundling")
 dir()
+sessionInfo()
+#R version 4.0.0 (2020-04-24) -- "Arbor Day"
+#Copyright (C) 2020 The R Foundation for Statistical Computing
+#Platform: x86_64-pc-linux-gnu (64-bit)
+
 library(ggraph)
 library(igraph)
 library(tidyverse)
