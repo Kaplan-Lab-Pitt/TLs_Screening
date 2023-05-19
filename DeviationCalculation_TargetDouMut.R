@@ -1,5 +1,9 @@
 setwd("/Users/bingbingduan/Documents/lib/Pol2lib/analysis/Details\ of\ each\ lib/lib1678910/MedianNormed_fitness")
 
+#R version 4.0.0 (2020-04-24) -- "Arbor Day"
+#Copyright (C) 2020 The R Foundation for Statistical Computing
+#Platform: x86_64-pc-linux-gnu (64-bit)
+
 dir()
 observed_doubles <- read.table("doubleMut_observed_temp1.txt", sep = "\t", header = TRUE, fill = TRUE)
 
