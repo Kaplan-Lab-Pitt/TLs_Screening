@@ -15,3 +15,6 @@ This folder has R code for drawing the EdgeBundling figure.
 
 This folder has the bash and Python codes for SCA (Statistical Coupling Analysis). It has two parts. Firstly, MSA(Multiple Sequence Aliganment) with T-coffeev12.00.7fb08c2 , and SCA(Statistical Coupling Analysis) with pySCAv6.1. 
 
+## programs
+
+This folder has the scripts for alignment of sequencing reads and counting of mutants. 
