@@ -1,0 +1,1 @@
+Execute the command "./run.s" in linux.  run.s executes a number of subcommands.  Each line within a subcommand could be run in parallel by submitting as an individual job on a computing cluster.  The jobs need to be set up appropriately using the submission syntax of the cluster.

@@ -1,0 +1,10 @@
+./mutation 3 1068 < 1.fasta > 1.txt
+./mutation 3 1068 < 2.fasta > 2.txt
+./mutation 3 1068 < 3.fasta > 3.txt
+./mutation 3 1068 < 4.fasta > 4.txt
+./mutation 3 1068 < 5.fasta > 5.txt
+./mutation 3 1068 < 6.fasta > 6.txt
+./mutation 3 1068 < 7.fasta > 7.txt
+./mutation 3 1068 < 8.fasta > 8.txt
+./mutation 3 1068 < 9.fasta > 9.txt
+./mutation 3 1068 < 10.fasta > 10.txt

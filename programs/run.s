@@ -1,0 +1,17 @@
+./wget.s
+./fastq-dump.s
+./gcc.s
+./extractfa.s
+./extractfa0.s
+./extractl.s
+./extractl0.s
+./mutation.s
+./mutation0.s
+./mutationl.s
+./mutationl0.s
+./extractt.s
+./extractt0.s
+./merges.s
+./merges0.s
+./merget.s
+./merget0.s

@@ -1,0 +1,10 @@
+./extractl < lib1_Single_Variants_v1.fasta > 1.fasta
+./extractl < lib2_Pairwise_doubles_v1.fasta > 2.fasta
+./extractl < lib3_Evolutionary_TLs_v1.fasta > 3.fasta
+./extractl < lib4_Evo_path_mutants_v1.fasta > 4.fasta
+./extractl < lib5_Evo_coupling_v1.fasta > 5.fasta
+./extractl < lib6_Targeted_doubles_v1.fasta > 6.fasta
+./extractl < lib7_T834P.fasta > 7.fasta
+./extractl < lib8_T834A.fasta > 8.fasta
+./extractl < lib9_Y769F.fasta > 9.fasta
+./extractl < lib10_S713P.fasta > 10.fasta
