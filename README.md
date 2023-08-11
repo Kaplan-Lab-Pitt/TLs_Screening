@@ -17,4 +17,4 @@ This folder has the bash and Python codes for SCA (Statistical Coupling Analysis
 
 ## programs
 
-This folder has the scripts for alignment of sequencing reads and counting of mutants. 
+This folder has scripts for alignment of sequencing reads and counting of mutants. 
