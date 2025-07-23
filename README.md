@@ -2,9 +2,7 @@
 This repository includes scripts used for analyzing Pol II TL amplicon sequencing libraries studying potential epistasis in TL residues in budding yeast Saccharomyces cerevisiae.
 
 # DOI
-DOI
-
-10.5281/zenodo.16370006 
+DOI (10.5281/zenodo.16370006)
 
 
 
